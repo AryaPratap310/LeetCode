@@ -1,0 +1,13 @@
+// Last updated: 25/08/2025, 17:17:39
+class Solution {
+        public double average(int[] salary) {
+        double sum = 0d;
+        int M = Integer.MIN_VALUE, m = Integer.MAX_VALUE;
+        for (int s : salary) {
+            m = Math.min(m, s);
+            M = Math.max(M, s);
+            sum += s;
+        }
+        return (sum - m - M) / (salary.length - 2);
+    }
+}
