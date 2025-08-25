@@ -1,0 +1,14 @@
+// Last updated: 25/08/2025, 17:17:56
+class Solution {
+    public int minStartValue(int[] nums) {
+        int max = 1;
+        int sum = 1;
+        for(int i=0;i<nums.length;i++)
+        {
+            sum -= nums[i];
+            if(max<sum)
+                max = sum;
+        }
+        return max;
+    }
+}
