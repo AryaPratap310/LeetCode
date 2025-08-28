@@ -1,4 +1,4 @@
-// Last updated: 25/08/2025, 17:21:13
+// Last updated: 28/08/2025, 10:51:34
 class Solution {
     public boolean isAnagram(String s, String t) {
         // method  1
