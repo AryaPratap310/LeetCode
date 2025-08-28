@@ -1,6 +1,40 @@
-// Last updated: 25/08/2025, 17:22:52
+// Last updated: 28/08/2025, 11:00:41
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         Map<String, List<String>> map = new HashMap<>();
         
         for (String word : strs) {
