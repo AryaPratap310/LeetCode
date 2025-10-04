@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AryaPratap310/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AryaPratap310/LeetCode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AryaPratap310/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AryaPratap310/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
