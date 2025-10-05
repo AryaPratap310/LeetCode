@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AryaPratap310/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AryaPratap310/LeetCode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AryaPratap310/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AryaPratap310/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryaPratap310/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AryaPratap310/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
